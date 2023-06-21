@@ -1,8 +1,9 @@
 <h1 align="center">Hello 👋, I'm Sara Marcos</h1>
-<h3 align="center">A passionate software developer from Madrid</h3>
+<h3 align="center">An enthusiastic computer science engineering student from Madrid</h3>
 <h3 align="center">Contact me:</h3>
-<p align="center">
-<a href="mailto:sara.marcos@hotmail.es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="sara" height="30" width="40" /></a>
+<p align="center"><a href="mailto:sara.marcos@hotmail.es" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="Email" height="30" width="30" style="margin-right: 10px;" />
+  </a>
 <a href="https://linkedin.com/in/sara-marcos-cornejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara" height="30" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
